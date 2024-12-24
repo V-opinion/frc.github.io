@@ -2,9 +2,9 @@
 {
    font-family: "Material Icons";
    font-display: swap;
-   src: url('../MaterialIcons-Regular.woff2') format('woff2'),
-        url('../MaterialIcons-Regular.woff') format('woff'),
-        url('../MaterialIcons-Regular.ttf') format('truetype');
+   src: url('https://frc.multireligionvalsystem.eu.org/How-to-Implement-a-Multi-Religion-Electoral-System--A-Step-by-Step-Guide/MaterialIcons-Regular.woff2') format('woff2'),
+        url('https://frc.multireligionvalsystem.eu.org/How-to-Implement-a-Multi-Religion-Electoral-System--A-Step-by-Step-Guide/MaterialIcons-Regular.woff') format('woff'),
+        url('https://frc.multireligionvalsystem.eu.org/How-to-Implement-a-Multi-Religion-Electoral-System--A-Step-by-Step-Guide/MaterialIcons-Regular.ttf') format('truetype');
 }
 @keyframes animate-fade-out
 {
